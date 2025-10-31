@@ -1,0 +1,17 @@
+inventory_system.py:13:1: E302 expected 2 blank lines, found 1
+inventory_system.py:16:1: W293 blank line contains whitespace
+inventory_system.py:29:1: E302 expected 2 blank lines, found 1
+inventory_system.py:32:1: W293 blank line contains whitespace
+inventory_system.py:44:1: E302 expected 2 blank lines, found 1
+inventory_system.py:47:1: W293 blank line contains whitespace
+inventory_system.py:50:1: W293 blank line contains whitespace
+inventory_system.py:56:1: E302 expected 2 blank lines, found 1
+inventory_system.py:59:1: W293 blank line contains whitespace
+inventory_system.py:67:1: E302 expected 2 blank lines, found 1
+inventory_system.py:70:1: W293 blank line contains whitespace
+inventory_system.py:77:1: E302 expected 2 blank lines, found 1
+inventory_system.py:85:1: E302 expected 2 blank lines, found 1
+inventory_system.py:88:1: W293 blank line contains whitespace
+inventory_system.py:91:1: W293 blank line contains whitespace
+inventory_system.py:101:1: E302 expected 2 blank lines, found 1
+inventory_system.py:117:1: E305 expected 2 blank lines after class or function definition, found 1
